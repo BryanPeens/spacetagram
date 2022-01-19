@@ -1,4 +1,7 @@
 # SPACETAGRAM APPLICATION
+
+This project makes use of the [NASA open api](https://api.nasa.gov/) to retrieve mars rover images and data. It displays them similar to how instagram displays images, and allows a user to like or unlike rover images.
+
  - The Live version of this application can be found at Heroku: https://spacetagram-nasa.herokuapp.com/
  - The application features polaris loading function when the page initializes,
  - This application also makes use of polaris pages and card components,
@@ -7,8 +10,7 @@
  - Mars Rover image ID's and the status of the Like is stored using this session
 
 **Github URL**
-- The code for this project can be found on Github
-- https://github.com/BryanPeens/spacetagram
+- The code for this project can be found on [Github](https://github.com/BryanPeens/spacetagram)
 
 **Heroku Hosted URL**
 - https://spacetagram-nasa.herokuapp.com/
@@ -19,9 +21,6 @@
   - MacOS
   - Recommended to use npm 8.3.0 and node v17.3.1 or higher to run this project
   
-**Clean install commands**
-  - npm clean
+**How to get it started**
   - npm install
-  
-**Start command**
   - npm start
