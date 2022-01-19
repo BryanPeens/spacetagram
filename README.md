@@ -6,7 +6,6 @@
  - The application uses react session to save Likes in local storage, when a user leaves the page the data is persisted.
  - Mars Rover image ID's and the status of the Like is stored using this session
 
-
 **Github URL**
 - The code for this project can be found on Github
 - https://github.com/BryanPeens/spacetagram
@@ -18,10 +17,7 @@
   - Linux
   - Windows
   - MacOS
-  - React
-  - You will need the latest version of npm
-  - You will need to install or setup Polaris, learn more from https://polaris.shopify.com/components/get-started#navigation
-  - npm install @shopify/polaris --save
+  - Recommended to use npm 8.3.0 and node v17.3.1 or higher to run this project
   
 **Clean install commands**
   - npm clean
