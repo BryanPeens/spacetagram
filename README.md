@@ -2,7 +2,7 @@
 
 This project makes use of the [NASA open api](https://api.nasa.gov/) to retrieve mars rover images and data. It displays them similar to how instagram displays images, and allows a user to like or unlike rover images.
 
- - The Live version of this application can be found at Heroku: https://spacetagram-nasa.herokuapp.com/
+ - The Live version of this application can be found at Github: https://bryanpeens.github.io/spacetagram/
  - The application features polaris loading function when the page initializes,
  - This application also makes use of polaris pages and card components,
  - The application fetches data from one of  NASA's API's and displays resulting images and data on a likable card.
