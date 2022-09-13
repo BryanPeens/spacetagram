@@ -14,6 +14,9 @@ This project makes use of the [NASA open api](https://api.nasa.gov/) to retrieve
 
 **Heroku Hosted URL**
 - https://spacetagram-nasa.herokuapp.com/
+
+**Github Pages Hosted URL**
+- https://bryanpeens.github.io/spacetagram/
    
 **System requirements**
   - Linux
